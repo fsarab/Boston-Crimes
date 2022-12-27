@@ -13,6 +13,7 @@ Geospatial clustering of the locations to identify, which area has higher crime 
 Calculating the trend of the crime across the years and identifying crimes which are more common.
 Exploring if variables like Time of the Day, Day of the Week, Weather conditions affect crime rates.
 
+![Logo](https://github.com/fsarab/Boston-Crimes/blob/main/Boston.PNG)
 
 ## Method
 
